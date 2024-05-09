@@ -1,16 +1,15 @@
-### Hi there 👋
+meu nome é Júlio César 
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvenfo no JavaScript
+- Utilizando esse espaço para compartilhamento dos meus projetos
+  
+  ### meu email é
+  
+  jc.camargo
 
-<!--
-**Skaywalker21/Skaywalker21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://media1.tenor.com/m/SdqYUJBdKs8AAAAd/vader-darth-vader.gif)
 
-Here are some ideas to get you started:
+![](https://media1.tenor.com/m/iMDMIYdDIwwAAAAC/star-wars-darth-vader.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  
